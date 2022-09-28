@@ -1,2 +1,2 @@
-# Mark-12
- A website which helps you to learn about triangles
+# Know about Triangles
+ A website which helps you to learn about triangles using HTML, CSS, JavaScipt
